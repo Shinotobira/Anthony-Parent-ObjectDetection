@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anthony.Parent.ObjectDetection.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95e0a43e7ddf8e944e20ef15e26d205e29e5a0a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anthony.Parent.ObjectDetection.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anthony.Parent.ObjectDetection.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

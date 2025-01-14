@@ -72,7 +72,6 @@ app.MapPost("/ObjectDetection", async ([FromForm] IFormFileCollection files) =>
 }).DisableAntiforgery();
 
 
-
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)

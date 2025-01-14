@@ -11,3 +11,4 @@ C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetec
 C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.pdb
 C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\ref\Anthony.Parent.ObjectDetection.dll
 C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.sourcelink.json

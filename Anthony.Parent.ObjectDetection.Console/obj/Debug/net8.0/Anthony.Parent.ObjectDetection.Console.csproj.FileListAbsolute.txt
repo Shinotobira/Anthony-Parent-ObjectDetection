@@ -78,3 +78,4 @@ C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetec
 C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.Console\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.Console.pdb
 C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.Console\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.Console.genruntimeconfig.cache
 C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.Console\obj\Debug\net8.0\ref\Anthony.Parent.ObjectDetection.Console.dll
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.Console\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.Console.sourcelink.json

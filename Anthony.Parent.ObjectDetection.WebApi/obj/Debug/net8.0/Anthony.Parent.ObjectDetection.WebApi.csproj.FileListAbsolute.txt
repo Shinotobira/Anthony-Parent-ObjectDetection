@@ -1,0 +1,8 @@
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.AssemblyInfo.cs
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection.WebApi\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.WebApi.sourcelink.json
