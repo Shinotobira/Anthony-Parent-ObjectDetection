@@ -47,11 +47,12 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Run unit test
-      working-directory: ./Anthony.Parent.ObjectDetection/
+      working-directory: ./Anthony.Parent.ObjectDetection.Tests/
       run: dotnet test  /p:CoverletOutputFormat=opencover /p:CoverletOutput=./coverage/opencover.xml
-    - run: dotnet publish ./Anthony.Parent.ObjectDetection/Anthony.Parent.ObjectDetection.WebApi.csproj --self-contained true --output ./win-x64/fibonacci -c Release -r win-x64 /p:PublishSingleFile=true
+    - name: Publish WEB API
+      run: dotnet publish ./Anthony.Parent.ObjectDetection.WebApi.csproj --self-contained true --output ./win-x64/objectDetection -c Release -r win-x64 /p:PublishSingleFile=true
     - name: Upload WebApp1 Build Artifact
       uses: actions/upload-artifact@v4
       with:          
-        name: Publish win-x64 Fibonacci
-        path: ./win-x64/fibonacci
+        name: Publish win-x64 objectDetection
+        path: ./win-x64/objectDetection
