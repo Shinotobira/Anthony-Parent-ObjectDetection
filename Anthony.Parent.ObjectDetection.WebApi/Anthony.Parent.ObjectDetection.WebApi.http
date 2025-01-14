@@ -1,0 +1,6 @@
+@Anthony.Parent.ObjectDetection.WebApi_HostAddress = http://localhost:5172
+
+GET {{Anthony.Parent.ObjectDetection.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

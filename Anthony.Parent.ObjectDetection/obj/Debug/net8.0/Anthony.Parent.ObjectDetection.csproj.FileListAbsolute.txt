@@ -1,0 +1,13 @@
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\bin\Debug\net8.0\Anthony.Parent.ObjectDetection.deps.json
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\bin\Debug\net8.0\Anthony.Parent.ObjectDetection.dll
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\bin\Debug\net8.0\Anthony.Parent.ObjectDetection.pdb
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.AssemblyInfo.cs
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.dll
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\refint\Anthony.Parent.ObjectDetection.dll
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\Anthony.Parent.ObjectDetection.pdb
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\obj\Debug\net8.0\ref\Anthony.Parent.ObjectDetection.dll
+C:\Users\antho\Desktop\Cours\M2\Microsoft_Technologie\Anthony.Parent.ObjectDetection\Anthony.Parent.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx
