@@ -1,0 +1,43 @@
+name: .NET Core CI
+
+on:
+  push:
+    branches:
+      - main    # Déclenche sur les push vers la branche main (modifiez selon votre branche principale)
+  pull_request:
+    branches:
+      - main    # Déclenche sur les PR vers la branche main
+
+jobs:
+  build:
+    runs-on: windows-latest   # Utiliser un environnement Windows
+
+    steps:
+      # 1. Vérifier le code à partir de GitHub
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      # 2. Configurer .NET SDK (télécharger la version spécifique)
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0'  # Spécifier la version du SDK .NET, modifiez en fonction de votre projet
+      
+      # 3. Restaurer les dépendances
+      - name: Restore dependencies
+        run: dotnet restore
+      
+      # 4. Exécuter les tests unitaires
+      - name: Run tests
+        run: dotnet test --no-restore
+      
+      # 5. Publier le projet en tant qu'exécutable autonome (Windows)
+      - name: Publish the project
+        run: dotnet publish -c Release -r win10-x64 --self-contained true /p:PublishSingleFile=true /p:PublishTrimmed=true -o ./output
+      
+      # 6. Archiver les fichiers publiés
+      - name: Archive output
+        uses: actions/upload-artifact@v3
+        with:
+          name: published-output
+          path: ./output
